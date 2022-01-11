@@ -4,13 +4,7 @@ import io.restassured.path.json.JsonPath;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
-//Add a new code
-//Test1
-//test2
-//test3
-//test4
-//test5
-//test6
+System.out.println("Hllow")
 
 public class Basics {
 	public static void main(String args[])
